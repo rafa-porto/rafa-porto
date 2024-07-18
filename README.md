@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hello! Welcome to my Github profile.
 
-<!--
-**rafa-porto/rafa-porto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Rafael Porto and my nickname is "rafa"!
 
-Here are some ideas to get you started:
+### About Me
+- 🌟 I am passionate about technology.
+- 📚 I’m currently learning JavaScript and TailwindCSS.
+- 📫 How to reach me: rafaelporto45rt5@proton.me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+- CSS3
+- JavaScript
+- TailwindCSS
+
+### Projects
+Here are some of the projects I am proud of:
+
+- [Project 1](link_to_project_1)
+- [Project 2](link_to_project_2)
+- [Project 3](link_to_project_3)
+
+### Connect with Me
+- [LinkedIn](link_to_linkedin)
+- [Twitter](link_to_twitter)
+- [Personal Website](link_to_website)
+
+Thank you for visiting my profile! Feel free to explore my repositories and get in touch.
